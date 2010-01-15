@@ -1,0 +1,7 @@
+Scripts to manage multiple monitors on Lenovo laptops.
+
+The save-settings script will save your display settings and panels, the load-settings script will restore them.
+
+To save your monitor setup, use
+./save-settings.sh configurationname
+I use three configurations: "docked", "laptop", and "1monitor".
